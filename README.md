@@ -151,7 +151,7 @@ Visuals speak louder than numbers. Explore the power of visualization in data sc
 #### Matplotlib and Seaborn
 Step into the realm of data visualization with Matplotlib and Seaborn. Transform data into visually stunning representations, making complex information easily digestible.
 
-###### Key Concepts of Matplotlib
+##### Key Concepts of Matplotlib
 - Basic Plotting
 - Subplots and Figures
 - Different Plots
@@ -160,7 +160,7 @@ Step into the realm of data visualization with Matplotlib and Seaborn. Transform
 - 3D Plotting
 - Saving and Exporting Plots
 
-###### Key Concepts of Seaborn
+##### Key Concepts of Seaborn
 - Basic Plots
   - Scatter, Line
 - Customizing Plots
