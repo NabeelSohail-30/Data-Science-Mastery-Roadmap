@@ -3,7 +3,7 @@
 ## Python
 - Variables, Data Types, Numbers, Strings
 - Control Structures
-  - Lists, Dictionaries, Sets, Tuples
+- Lists, Dictionaries, Sets, Tuples
 - Functions, Lambda Functions
 - Iterators, List Comprehension, and Generators
 - Modules
@@ -17,7 +17,7 @@
 - Data Types and Casting
 - Operations with Arrays
   - Element-wise, Broadcasting, Universal Functions, Aggregation
-- Random in Numpy
+- Generating Random Value in Numpy
 - File Input Output in Numpy
 - Time Series Data
 
@@ -36,7 +36,6 @@
 - Data Input and Output
 - Handling Text Data
 - Handling Outliers and Anomalies
-- Statistical Analysis with Pandas
 
 ## SQL
 - Basics of Relational Databases
@@ -84,14 +83,15 @@
   - Ordinary and Partial
 
 ## Statistics for Data Science
-- Descriptive vs Inferential Statistics
-  - Continuous vs Discrete Data, Nominal vs Ordinal Data
-- Histograms, Pie Charts, Bar Charts, Scatter Plot, etc.
+- Basics of Statistics
+  - Descriptive vs Inferential Statistics, Continuous vs Discrete Data, Nominal vs Ordinal Data
+- Charts and Plots
+  - Histograms, Pie Charts, Bar Charts, Scatter Plot, etc.
 - Measures of Central Tendency
   - Mean, Median, Mode
 - Measures of Dispersion
   - Variance, Standard Deviation
-  - Percentile and Quartiles
+- Percentile and Quartiles
 - Distributions
   - Binomial, Poison, Normal, Exponential
 - Correlation and Covariance
